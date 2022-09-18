@@ -11,7 +11,7 @@ var (
 	wg         sync.WaitGroup
 )
 
-func disorder() {
+func main() {
 	interface1 = []string{"coba1", "coba2", "coba3"}
 	interface2 = []string{"bisa1", "bisa2", "bisa3"}
 
